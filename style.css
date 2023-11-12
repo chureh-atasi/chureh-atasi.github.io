@@ -35,9 +35,8 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 0vh;
-    text-align: center;
     padding-top: 10px;
+    text-align: center;
 }
 
 .section-1 p{
