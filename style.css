@@ -6,6 +6,12 @@
     grid-template-columns: repeat(2,1fr);
 }
 
+.grid_3 {
+    display: grid;
+    place-items: center; /* Center the content both horizontally and vertically */
+    /* Additional styling rules as needed */
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -19,13 +25,17 @@ h2,.white{
     color: #fff;
 }
 
+h3,.white{
+    color: #fff;
+}
+
 a{
     color: #7A7C80;
     text-decoration: none;
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 15vh;
     text-align: center;
 }
 
